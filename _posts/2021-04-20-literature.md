@@ -1,5 +1,5 @@
 # my jupter notebook as blog post
-## subtitle for my post
+Creating subtitle
 
 ### imports
 
