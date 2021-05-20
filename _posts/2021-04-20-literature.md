@@ -1,3 +1,5 @@
+# my jupter notebook as blog post
+
 ### imports
 
 
